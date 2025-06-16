@@ -1,1 +1,0 @@
-<?php include 'includes/db_connect.php'; ?><form method='POST'><input name='username'><input name='password'><input type='submit'></form><?php if(isset($_POST['username'])){echo 'Register logic here';} ?>
