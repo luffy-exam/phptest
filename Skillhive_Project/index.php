@@ -1,0 +1,1 @@
+<?php include 'includes/db_connect.php'; include 'includes/header.php'; ?><div class='hero'><h1>Welcome to Skillhive</h1><p>Share Your Skills. Learn from Others. Connect Globally.</p></div><?php include 'includes/footer.php'; ?>
